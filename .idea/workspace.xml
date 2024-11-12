@@ -91,7 +91,7 @@
       <recent name="pe.edu.cibertec.CRUD" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JPAOneToManyOrphan">
+  <component name="RunManager" selected="Application.JPAOneToManyRemove">
     <configuration name="JPAGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pe.edu.cibertec.generation.JPAGeneration" />
       <module name="jpa-lym" />
@@ -159,9 +159,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JPAOneToManyRemove" />
         <item itemvalue="Application.JPAOneToManyOrphan" />
         <item itemvalue="Application.JPAGeneration" />
-        <item itemvalue="Application.JPAOneToManyRemove" />
         <item itemvalue="Application.JPAOneToManyPersist" />
         <item itemvalue="Application.JPAOneToMany" />
       </list>
